@@ -1,6 +1,6 @@
 # Taxi-demand-prediction
 
-Dataset: http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
+Dataset: https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
 Problem statement taken: Predict number of Taxi required for a given location and for a given time
 
